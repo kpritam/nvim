@@ -99,12 +99,15 @@
   "explorer.file.root.template": "[icon] [git] [hidden & 1][root]",
   "explorer.icon.enableNerdfont": true,
   "explorer.previewAction.onHover": false,
-  "explorer.icon.enableVimDevicons": false,
+  "explorer.icon.enableVimDevicons": true,
   "explorer.file.showHiddenFiles": false,
   "explorer.keyMappings.global": {
     "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
   },
+
+  // scala
+  "metals.serverVersion": "0.9.8+54-2042dd0d-SNAPSHOT	",
 
   "languageserver": {
     "lua": {
