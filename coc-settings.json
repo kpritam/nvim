@@ -107,7 +107,7 @@
   },
 
   // scala
-  "metals.serverVersion": "0.9.8+54-2042dd0d-SNAPSHOT	",
+  "metals.serverVersion": "0.9.8+54-2042dd0d-SNAPSHOT",
 
   "languageserver": {
     "lua": {
